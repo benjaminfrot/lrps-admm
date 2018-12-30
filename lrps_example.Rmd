@@ -1,0 +1,14 @@
+---
+title: "Fitting the LRpS estimator and performing cross-validation"
+author: "Ben Frot"
+date: "12/30/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Required packages
+
+
