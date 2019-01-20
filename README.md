@@ -1,5 +1,5 @@
 # lrps-admm
-An (accelerated) Alternative Direction Method of Multipliers implementation of the low-rank plus sparse estimator.
+An (accelerated) Alternating Direction Method of Multipliers (ADMM) implementation of the low-rank plus sparse estimator.
 
 See here for a tutorial: https://nbviewer.jupyter.org/github/benjaminfrot/lrps-admm/blob/master/LRpSADMMExample.ipynb
 
