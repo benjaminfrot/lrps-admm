@@ -1,4 +1,7 @@
 # lrps-admm
+
+This code has now been made into an R package and is deprecated. See here: https://github.com/benjaminfrot/lrpsadmm
+
 An (accelerated) Alternating Direction Method of Multipliers (ADMM) implementation of the low-rank plus sparse estimator.
 
 See here for a tutorial: https://nbviewer.jupyter.org/github/benjaminfrot/lrps-admm/blob/master/LRpSADMMExample.ipynb
